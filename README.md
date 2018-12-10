@@ -11,7 +11,7 @@ I used no vesioning system for this gist. My repository's status is flagged as <
 
 ## Author
 
-* **Isaac Arnault** - Suggesting two implementations in `Python` and `R`, from *Initial work* [Cognitive Class Lab - Module 2](https://cognitiveclass.ai/courses/data-science-methodology-2/)
+* **Isaac Arnault** - Suggesting two implementations in `Python` and `R`, from *Initial work* [Cognitive Class Lab - Module 2](https://cognitiveclass.ai/courses/data-science-methodology-2/) and one exercise.
 
 ## Licence
 
