@@ -23,4 +23,4 @@ MIT License, http://www.opensource.org/licenses/mit-license.php
 * Architecture appended in <b>OUTPUT.md</b>, inspired by [Cognitiveclass.ai](https://cognitiveclass.ai/).<br>
 * Dataframe used as sample coming from [Spatialkey.com](https://support.spatialkey.com/spatialkey-sample-csv-data/).
 
-(*) Ten stages are crucial regarding Data Science methodology, among which Data collection. See <b>figures.md</b>.
+(*) Ten stages are crucial regarding Data Science methodology, among which Data collection. See <b>architecture.md</b>.
