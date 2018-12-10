@@ -26,7 +26,7 @@ MIT License, http://www.opensource.org/licenses/mit-license.php
 ## Exercise
 * Perform a data collection in `Python` and `R` using `Jupyter`.<br>
 ⇢ Use the following dataframe from [Spatialkey.com](http://samplecsvs.s3.amazonaws.com/TechCrunchcontinentalUSA.csv).
-* How many observations and variables do the dataframe contain? Base your assessment on your scripting outputs.
+* How many observations and variables does the dataframe contain? Base your assessment on your scripting outputs.
 * Calculate Sum, Min, Max and Mean of variable "raisedAmt" using Python (and Pandas) and using R.<br>
 —
 (*) Ten stages are crucial regarding Data Science methodology, among which Data collection. See <b>architecture.md</b>.
