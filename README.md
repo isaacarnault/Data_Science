@@ -7,7 +7,7 @@ The following repository offers a focus on <b>Data Collection</b>, one of the st
 
 ## Versioning
 
-I used no vesioning system for this gist. My repository's status is flagged as <b>active</b> because it has reached a stable, usable state. Original [gist](https://gist.github.com/aiPhD/f4cdef7878e88ee2bed1254a2b5fbcb5) related to this repository is pending as <b>concept</b>.
+I used no vesioning system for this gist. My repository's status is flagged as <b>active</b> because it has reached a stable, usable state. Original [gist](https://gist.github.com/aiPhD/15873ff613af833f9693e1a595bdfcc6) related to this repository is pending as <b>concept</b>.
 
 ## Author
 
