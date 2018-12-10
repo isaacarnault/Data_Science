@@ -20,7 +20,7 @@ Copyright 2018, Isaac Arnault<br>
 MIT License, http://www.opensource.org/licenses/mit-license.php
 
 ## Sources
-* Architecture appended in <b>OUTPUT.md</b>, inspired by [Cognitiveclass.ai](https://cognitiveclass.ai/).<br>
+* Figure appended in <b>architecture.md</b>, inspired by [Cognitiveclass.ai](https://cognitiveclass.ai/).<br>
 * Dataframe used as sample coming from [Spatialkey.com](https://support.spatialkey.com/spatialkey-sample-csv-data/).
 
 ## Exercise
