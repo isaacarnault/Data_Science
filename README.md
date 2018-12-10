@@ -3,9 +3,9 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 ## Scripting in Python and R
-The following repository offers a focus on <b>Data Collection</b>, one of the stages* of the Data Science methodology. We will also perform basic math operations on a single dataframe to see how they render using Python or R.
+The following gist offers a focus on <b>Data Collection</b>, one of the stages* of the Data Science methodology. We will also perform basic math operations on a single dataframe to see how they render using Python or R.
 
-## Versioning
+# Versioning
 
 I used no vesioning system for this gist. My repository's status is flagged as <b>active</b> because it has reached a stable, usable state. Original [gist](https://gist.github.com/aiPhD/15873ff613af833f9693e1a595bdfcc6) related to this repository is pending as <b>concept</b>.
 
