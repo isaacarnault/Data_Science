@@ -5,7 +5,7 @@
 ## Scripting in Python and R
 The following gist offers a focus on <b>Data Collection</b>, one of the stages* of the Data Science methodology.
 
-# Versioning
+## Versioning
 
 I used no vesioning system for this gist. My repository's status is flagged as <b>active</b> because it has reached a stable, usable state. Original [gist](https://gist.github.com/aiPhD/f4cdef7878e88ee2bed1254a2b5fbcb5) related to this repository is pending as <b>concept</b>.
 
@@ -23,4 +23,9 @@ MIT License, http://www.opensource.org/licenses/mit-license.php
 * Architecture appended in <b>OUTPUT.md</b>, inspired by [Cognitiveclass.ai](https://cognitiveclass.ai/).<br>
 * Dataframe used as sample coming from [Spatialkey.com](https://support.spatialkey.com/spatialkey-sample-csv-data/).
 
-(*) Ten stages are crucial regarding Data Science methodology, among which Data collection. See <b>architecture.md</b>.
+## Exercise
+* Perform data collection in `Python` and `R` using `Jupyter`<br>
+* Use the following dataframe from [Spatialkey.com](http://samplecsvs.s3.amazonaws.com/TechCrunchcontinentalUSA.csv).
+* How many observations and variable do the dataframe contain. Base your assessment on your scripting outputs.
+—
+(*) Ten stages are crucial regarding Data Science methodology, among which Data collection. See <b>figures.md</b>.
