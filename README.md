@@ -11,7 +11,7 @@ I used no versioning system for this repository. Its status is flagged as <b>act
 
 ## Author
 
-* **Isaac Arnault** - Suggesting two implementations in `Python` and `R`, from *Initial work* [Cognitive Class Lab - Module 2](https://cognitiveclass.ai/courses/data-science-methodology-2/) and one exercise.
+* **Isaac Arnault** - Suggesting two implementations in `Python` and `R`, from *Initial work* [Cognitive Class Lab - Module 2](https://cognitiveclass.ai/courses/data-science-methodology-2/) and providing one exercise.
 
 ## Licence
 
