@@ -1,9 +1,9 @@
-# Data collection and operations using Python and R - Using one dataframe
+# Data collection and operations using Python and R
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 ## Scripting in Python and R
-The following gist offers a focus on <b>Data Collection</b>, one of the stages* of the Data Science methodology.
+The following gist offers a focus on <b>Data Collection</b>, one of the stages* of the Data Science methodology. We will also perform basic math operations on a single dataframe to see how they render using Python or R.
 
 ## Versioning
 
